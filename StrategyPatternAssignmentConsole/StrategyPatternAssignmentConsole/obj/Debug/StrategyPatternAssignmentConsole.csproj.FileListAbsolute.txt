@@ -1,0 +1,6 @@
+C:\Users\alkis\Source\Repos\StrategyPatternAssignmentConsole\StrategyPatternAssignmentConsole\bin\Debug\StrategyPatternAssignmentConsole.exe.config
+C:\Users\alkis\Source\Repos\StrategyPatternAssignmentConsole\StrategyPatternAssignmentConsole\bin\Debug\StrategyPatternAssignmentConsole.exe
+C:\Users\alkis\Source\Repos\StrategyPatternAssignmentConsole\StrategyPatternAssignmentConsole\bin\Debug\StrategyPatternAssignmentConsole.pdb
+C:\Users\alkis\Source\Repos\StrategyPatternAssignmentConsole\StrategyPatternAssignmentConsole\obj\Debug\StrategyPatternAssignmentConsole.csprojAssemblyReference.cache
+C:\Users\alkis\Source\Repos\StrategyPatternAssignmentConsole\StrategyPatternAssignmentConsole\obj\Debug\StrategyPatternAssignmentConsole.exe
+C:\Users\alkis\Source\Repos\StrategyPatternAssignmentConsole\StrategyPatternAssignmentConsole\obj\Debug\StrategyPatternAssignmentConsole.pdb
